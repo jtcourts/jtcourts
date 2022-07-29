@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    I'm a 5th year, Engineering Dual Degree student at <a href="https://www.acetamritsar.ac.in/"> <b>Butler University</b></a> obtaining degrees in both <b>Computer Science</b> and <b>Computer Engineering</b>. <br>
+    A 5th year, Engineering Dual Degree student at <a href="https://www.acetamritsar.ac.in/"> <b>Butler University</b></a> obtaining degrees in both <b>Computer Science</b> and <b>Computer Engineering</b>. <br>
     <em>
     Interested in <b>Full-Stack Software Development</b> and all computer related things.<br>
     Always studying and learning more about <b>JavaScript</b>, <b>Angular</b>, <b>Python</b>, and <b>Django/Flask</b>.
